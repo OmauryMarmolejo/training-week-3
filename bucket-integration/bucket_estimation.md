@@ -6,9 +6,9 @@ Bucket estimation divides a simple task into a series of columns according to it
 A common buckets configuration example could be made as following:
 
   - Business Logic
-  - Data Integration
+  - Data Integration.
   - Testing
-  - User Interface
+  - User Interface.
  
 Task's complexity must be  divided in above's columns format by setting a certain value using Fibonacci's secuence values [1,2,3,5,8,13...]
 ### Example.
@@ -20,4 +20,5 @@ The table below represents an estimation of a single feature in a system.
 
 As we can see, the complexity points acquired after dividing the part os this feature is 7, which is not part of Fibonacci's secuence; thus, we must round it to the value next to it in the secuence, in this case 8.
 
+Every user story needs to be analized this way by every member of the team, in order to have a better estimation of the system complexity.
 Every user story needs to be analized this way by every member of the team, in order to have a better estimation of the system complexity.
