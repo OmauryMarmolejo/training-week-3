@@ -22,7 +22,9 @@ The table below represents an estimation of a single feature in a system.
 | 2 | 3 | 1 | 1 |
 | Total | - | - | 7 |
 
-  As we can see, the complexity points acquired after dividing the part os this feature is 7, which is not part of Fibonacci's secuence; thus, we must round it to the value next to it in the secuence, in this case 8.
+diana was here
+
+As we can see, the complexity points acquired after dividing the part os this feature is 7, which is not part of Fibonacci's secuence; thus, we must round it to the value next to it in the secuence, in this case 8.
 
   Every user story needs to be analized this way by every member of the team, in order to have a better estimation of the system complexity.
 
